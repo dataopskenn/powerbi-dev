@@ -175,7 +175,7 @@ A Power BI-Friendly lookup table should be normalized to at least 2NF to ensure 
 
 
 ### Credits
-[(MS Learn)​​](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema)
-[(Stack Overflow)](https://stackoverflow.com/questions/22703985/is-a-fact-table-in-normalized-or-de-normalized-form)
-[(Zebra BI)​](https://zebrabi.com/guide/how-to-create-fact-and-dimension-tables-in-power-bi/)
-[(SQL Spreads)](https://sqlspreads.com/blog/power-bi-fact-and-dimension-tables/)
+[(MS Learn)​​](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema) <br>
+[(Stack Overflow)](https://stackoverflow.com/questions/22703985/is-a-fact-table-in-normalized-or-de-normalized-form)<br>
+[(Zebra BI)​](https://zebrabi.com/guide/how-to-create-fact-and-dimension-tables-in-power-bi/) <br>
+[(SQL Spreads)](https://sqlspreads.com/blog/power-bi-fact-and-dimension-tables/) <br>
